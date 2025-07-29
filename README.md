@@ -3,7 +3,7 @@ TM-MC 2.0 DB based Network Analysis
 
 Using TM-Mc 2.0 DB (https://tm-mc.kr/), Data files(TM_MC_DB) were downloaded 
 
-1. Find disease CUI from Disgenet (https://disgenet.com/)
+1. Find disease CUI(ex) "C0151908", "C0409959") from Disgenet (https://disgenet.com/)
 
 # Example usage in **Network Analysis(TM_MC).py**
    
