@@ -5,7 +5,7 @@ Using TM-Mc 2.0 DB (https://tm-mc.kr/)
 
 1. Find disease CUI from Disgenet (https://disgenet.com/)
 
-2. Exampkle Usage in Network Analysis(TM_MC).py
+2. Example usage in Network Analysis(TM_MC).py
    
    # Herbal complex example
     complex = ["인삼", "괄루근", "백지"]
