@@ -11,11 +11,11 @@ Using TM-Mc 2.0 DB (https://tm-mc.kr/), Data files(TM_MC_DB) were downloaded
     complex = ["인삼", "괄루근", "백지"]
     Matchcount_complex("C0151908", complex)
 
-    **# Individual herb comparison**
+# Individual herb comparison**
     for herb in complex:
         Matchcount_solo("C0151908", herb)
 
-   ** # Compound example**
+# Compound example**
     compound_disease("C0409959", "emodin")
 
 **Requirements**
