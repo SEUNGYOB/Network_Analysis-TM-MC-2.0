@@ -5,17 +5,17 @@ Using TM-Mc 2.0 DB (https://tm-mc.kr/), Data files(TM_MC_DB) were downloaded
 
 1. Find disease CUI from Disgenet (https://disgenet.com/)
 
-2. Example usage in **Network Analysis(TM_MC).py**
+# Example usage in **Network Analysis(TM_MC).py**
    
    # Herbal complex example
     complex = ["인삼", "괄루근", "백지"]
     Matchcount_complex("C0151908", complex)
 
-    # Individual herb comparison
+    **# Individual herb comparison**
     for herb in complex:
         Matchcount_solo("C0151908", herb)
 
-    # Compound example
+   ** # Compound example**
     compound_disease("C0409959", "emodin")
 
 **Requirements**
