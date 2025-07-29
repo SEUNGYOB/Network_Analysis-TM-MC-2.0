@@ -18,5 +18,13 @@ Using TM-Mc 2.0 DB (https://tm-mc.kr/)
     # Compound example
     compound_disease("C0409959", "emodin")
 
+**Requirements**
 
-3. 
+numpy	2.3.1	2.3.2
+openpyxl	3.1.5	3.1.5
+pandas	2.3.1	2.3.1
+pip	25.1.1	25.1.1
+python-dateutil	2.9.0.post0	2.9.0.post0
+pytz	2025.2	2025.2
+six	1.17.0	1.17.0
+tzdata	2025.2	2025.2
